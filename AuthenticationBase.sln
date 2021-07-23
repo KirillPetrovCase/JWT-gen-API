@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationBase.Authenticate.API", "AuthenticationBase.Authenticate.API\AuthenticationBase.Authenticate.API.csproj", "{4244662E-E268-44DA-B4B7-3CF65DE3AE47}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationBase.Authenticate.JwtGeneration", "AuthenticationBase.Authenticate.JwtGeneration\AuthenticationBase.Authenticate.JwtGeneration.csproj", "{728CA092-5B3F-4E4F-A65B-04B65D236F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4244662E-E268-44DA-B4B7-3CF65DE3AE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4244662E-E268-44DA-B4B7-3CF65DE3AE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4244662E-E268-44DA-B4B7-3CF65DE3AE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4244662E-E268-44DA-B4B7-3CF65DE3AE47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728CA092-5B3F-4E4F-A65B-04B65D236F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728CA092-5B3F-4E4F-A65B-04B65D236F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728CA092-5B3F-4E4F-A65B-04B65D236F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728CA092-5B3F-4E4F-A65B-04B65D236F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54ADCED6-721B-4F35-BEF7-EB96CEB64736}
+	EndGlobalSection
+EndGlobal
